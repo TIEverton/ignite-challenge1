@@ -15,8 +15,8 @@
   <a href="https://www.linkedin.com/in/evertonpinheiroti/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </a>
   <img src="https://img.shields.io/static/v1?label=CHALLENGE&style=for-the-badge&message=01&color=8257E5&labelColor=000000" alt="CHALLENGE 01" />
-  <a href="https://github.com/TIEverton/tindev/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/TIEverton/ignite-challenge1?color=8257E5&logo=github&style=for-the-badge">
+  <a href="https://github.com/TIEverton/ignite-chapter1-challenge1/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/TIEverton/ignite-chapter1-challenge1?color=8257E5&logo=github&style=for-the-badge">
   </a>
 </p>
 
@@ -40,7 +40,7 @@ This project was developed using the following technologies:
 Clone the project and access the folder
 
 ```bash
-$ git clone https://github.com/TIEverton/ignite-challenge1.git && cd ignite-challenge1
+$ git clone https://github.com/TIEverton/ignite-chapter1-challenge1.git && cd ignite-chapter1-challenge1
 ```
 
 Follow the steps below
